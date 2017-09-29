@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1506677776 source:c:\users\daniel\desktop\rpg\main.cpp
+	"classMob.h"
+	"Player.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<windows.h>
+
+1505905849 c:\users\daniel\desktop\rpg\include\classmob.h
+	<string>
+
+1505905559 c:\users\daniel\desktop\rpg\include\player.h
+	<string>
+
+1505905858 source:c:\users\daniel\desktop\rpg\src\classmob.cpp
+	<string>
+	"classMob.h"
+
+1505905559 source:c:\users\daniel\desktop\rpg\src\player.cpp
+	<string>
+	"Player.h"
+
